@@ -14,7 +14,7 @@ This is a Discord bot built with Discord.js that provides a simple verification 
 3. Set up your Discord bot and obtain the bot token.
 4. Edit the `config.json` file and replace `'YOUR_ROLE_ID_HERE'` with the ID of the role you want to assign to verified users.
 5. Replace `'YOUR_BOT_TOKEN_HERE'` with your actual bot token in the `index.js` file.
-6. Customize the bot prefix and activity status in the `config.json` and `index.js` files if necessary.
+6. Customize the bot prefix and activity status in  `index.js` files if necessary.
 
 ## Usage
 
@@ -25,7 +25,7 @@ This is a Discord bot built with Discord.js that provides a simple verification 
 
 ## Configuration
 
-- `config.json`: Contains configuration options such as the bot prefix and role ID.
+
 - `index.js`: Contains the main bot logic, including event handlers and button click actions.
 
 ## Dependencies
