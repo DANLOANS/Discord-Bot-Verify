@@ -8,7 +8,9 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "DanLoans (DANLOANS)"
+  },
   "license": "ISC",
   "dependencies": {
     "discord-buttons": "^4.0.0",
